@@ -1,0 +1,10 @@
+x = 'JavaTpoint'
+y = tuple(x)
+print('After converting a string to a tuple: ',end = "")
+print(y)
+y = set(x)
+print('After coverting a string to a set: ',end = "")
+print(y)
+y = list(x)
+print('After converting the string to a list: ',end = "")
+print(y)
