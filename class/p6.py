@@ -1,0 +1,6 @@
+a=input('enter the number')
+print("data type of a:",type(a))
+b=int(input("enter the number"))
+print("data type of b:", type(b))
+c=float(input("enter the number"))
+print("data type of c:", type(c))

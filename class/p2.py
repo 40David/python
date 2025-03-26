@@ -1,0 +1,6 @@
+print('we\'re going to the store')
+print('hi''there')
+print('hi'+'there')
+print('hi'+ str(5))
+print(int('8')+5)
+print(float('8.5')+5)

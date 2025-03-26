@@ -1,0 +1,5 @@
+name=(input("enter your name"))
+print("hello %s"%name)
+age=(input("enter your age"))
+print("hello %s are u %d year old"%(name,age))
+print("Marks %f"%92.5)
